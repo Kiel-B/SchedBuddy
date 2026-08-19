@@ -1,1 +1,1 @@
-# SchedBuddy
+# Sched Bud
